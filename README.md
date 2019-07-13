@@ -1,2 +1,1 @@
-The program uses .Net core services and Entity Framework Code first from Database. Asynchronous programming makes the code highly efficient
-enables parallel processing.
+The program uses .Net core services and Entity Framework Code first from Database. Asynchronous programming makes the code highly efficient enables parallel processing. Please download the Nuget packages for the code to run.
